@@ -4,7 +4,7 @@
 
 PHASE 1  –  DATASET
 ----------------------------------------
-  Source          : CIFAR-10 (public, no auth required)
+  Source          : CIFAR-10
   Images selected : 10 (one per class, upscaled 32→64px bicubic)
   Resolution      : 64×64 pixels  |  3 RGB channels
   Pixel range     : [0, 1]  (normalised)
